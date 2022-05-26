@@ -1,0 +1,9 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\SimpleAppLauncher\SimpleAppLauncher\obj\x86\Debug\SimpleAppLauncher.Form1.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\SimpleAppLauncher\SimpleAppLauncher\obj\x86\Debug\SimpleAppLauncher.vbproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2010\Projects\SimpleAppLauncher\SimpleAppLauncher\bin\Debug\SimpleAppLauncher.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\SimpleAppLauncher\SimpleAppLauncher\bin\Debug\SimpleAppLauncher.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\SimpleAppLauncher\SimpleAppLauncher\bin\Debug\SimpleAppLauncher.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\SimpleAppLauncher\SimpleAppLauncher\obj\x86\Debug\SimpleAppLauncher.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\SimpleAppLauncher\SimpleAppLauncher\obj\x86\Debug\SimpleAppLauncher.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\SimpleAppLauncher\SimpleAppLauncher\obj\x86\Debug\SimpleAppLauncher.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\SimpleAppLauncher\SimpleAppLauncher\obj\x86\Debug\SimpleAppLauncher.pdb
